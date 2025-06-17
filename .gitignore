@@ -1,0 +1,19 @@
+# кэш и двойники
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# IDE
+.idea/
+.vscode/
+
+# данные и артефакты
+data/
+artifacts/
+*.pt
+*.csv
+*.parquet
+
+# прочее
+.DS_Store
+.env
