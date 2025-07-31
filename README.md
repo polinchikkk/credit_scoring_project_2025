@@ -1,6 +1,6 @@
 # Credit-Scoring: GRU + Attention
 
-Предсказываем дефолт по полной кредитной истории.
+Предсказываем дефолт по полной кредитной истории. Датасет «Credit Score» с Kaggle (https://www.kaggle.com/datasets/polinchikk/data-for-credit-score). Распаковать в директорию `data/raw/`.
 
 ## Быстрый старт
 
